@@ -1,0 +1,1 @@
+Desafio de Projeto do bootcamp Santander Bootcamp 2023 - Ciência de Dados com Python. Utilizei de forma direta a biblioteca pandas para fazer ETL de uma planilha no excel, não foi usado IA devido ao custo da API Key da Openai.
